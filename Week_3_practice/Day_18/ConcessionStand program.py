@@ -20,11 +20,11 @@ for key, value in menu.items():
     print(f"{key:10}: {value:.2f}$")# format speceficior for 2 decimial place
     # :10 for ten spaces
 print("---------------------------")
-
-while True:
+A = True
+while A:
     food = input("Selete an items (q to quit : )").lower()
     if food == 'q':
-        break
+        A = False
     elif food  in menu:
             cart.append(food)
     else:
