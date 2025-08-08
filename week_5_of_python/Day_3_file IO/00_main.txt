@@ -1,0 +1,25 @@
+# file I/O
+
+# Python can be use to perform operations on a file (read & write & append ,data )
+
+
+type of file 
+
+1. Text file : .txt, .docx, ,log etc........
+2. Binary files : .mp4, .mov, .png, .jpeg etc........ 
+
+
+chaaracter maeaning
+
+"r"                   open for reading (default)
+
+"w"                   open for writing, truncationg the file
+
+"x"                   create a new file and open it for writing
+
+"b"                   binary mode
+
+"t"                   text mode (default)
+
+"+"                   open a disk file for updating (reading and writing)
+
