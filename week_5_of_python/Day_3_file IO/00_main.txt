@@ -1,5 +1,4 @@
 # file I/O
-
 # Python can be use to perform operations on a file (read & write & append ,data )
 
 

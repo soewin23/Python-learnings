@@ -1,0 +1,3 @@
+hello the is my week five of learning python
+ And I'm very excctioed to learn this file IO
+I'm watching a tutrorial ablut file IOprint(helloWorld)
