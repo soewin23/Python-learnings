@@ -1,0 +1,20 @@
+these fours are like a pillors of OPPs.
+
+Abstraction 
+Hiding the implementatioin details of a class and only the showing the essential features to the user 
+
+
+
+
+
+Encapsulation
+Wrapping data and functions into a single unit (object) 
+
+
+
+
+
+Inheritence
+
+
+Polymoshisis
